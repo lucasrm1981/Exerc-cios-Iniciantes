@@ -1,4 +1,4 @@
-# Exerc-cios-Iniciantes
+# Exerciicios
 Vários exercícios para iniciar a programação no C#
 ### Lista de exercícios práticos em C Sharp
 
