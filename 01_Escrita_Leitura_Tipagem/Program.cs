@@ -1,6 +1,6 @@
 using System;
 
-namespace Calculadora
+namespace Tipagem
 {
     class Program
     {
