@@ -2,8 +2,6 @@
 Vários exercícios para iniciar a programação no C#
 ### Lista de exercícios práticos em C Sharp
 
-ta2:** apenas os exercícios aqui propostos não são suficientes pra você fixar todos os pontos abordados, procure por mais conteúdos para fixar os conceitos.
-
 ## Requisitos básicos para fazer os exercícios
 
 Sugiro que você já conheça de forma básica:
@@ -19,7 +17,7 @@ Os exercícios possuem alguns desafios para você praticar mais, se desejar, mas
 
 # Lista de exercícios:
 
-1. [Exemplos de Escrita e Litura com base expolicação na tipagem](/01_Escrita_Leitura_Tpagem")
+1. [Exemplos de Escrita e Litura com base expolicação na tipagem](/01_Escrita_Leitura_Tipagem")
 2. [Calculadora](/02_Calculadora "Calculadora")
 3. [Soma e média](/03_SomaMedia "Soma e média")
 4. [Jogar dados](/04_JogarDados "Jogar dados")
