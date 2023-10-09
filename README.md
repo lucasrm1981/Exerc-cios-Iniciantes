@@ -19,7 +19,7 @@ Os exercícios possuem alguns desafios para você praticar mais, se desejar, mas
 
 # Lista de exercícios:
 
-1. [Como usar VS Code, git e github](/01_Introducao_VSCode_Git "Como usar VS Code, git e github")
+1. [Exemplos de Escrita e Litura com base expolicação na tipagem](/01_Escrita_Leitura_Tpagem")
 2. [Calculadora](/02_Calculadora "Calculadora")
 3. [Soma e média](/03_SomaMedia "Soma e média")
 4. [Jogar dados](/04_JogarDados "Jogar dados")
